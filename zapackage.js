@@ -29,6 +29,7 @@ var dynamicData = [
         { label: "聖晶石 77個", value: "¥4,900" },
         { label: "聖晶石 41個", value: "¥3,000" },
         { label: "聖晶石 21個", value: "¥1,600" },
+        { label: "聖晶石 5個", value: "¥480" },
         { label: "聖晶石 5個", value: "¥480" }
     ]
   },
@@ -196,7 +197,6 @@ var dynamicData = [
   { label: '1800白金幣', value: '$29.99' },
   { label: '3000白金幣', value: '$49.99' },
   { label: '6000白金幣', value: '$99.99' },
-  { label: '6000白金幣', value: '$99.99' }
   ]
  },
 
