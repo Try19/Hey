@@ -30,7 +30,7 @@ var dynamicData = [
         { label: "聖晶石 41個", value: "¥3,000" },
         { label: "聖晶石 21個", value: "¥1,600" },
         { label: "聖晶石 5個", value: "¥480" },
-        { label: "聖晶石 5個", value: "¥480" }
+        { label: "刷新", value: "¥480" }
     ]
   },
 
