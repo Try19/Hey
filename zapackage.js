@@ -195,6 +195,7 @@ var dynamicData = [
   { label: '900白金幣', value: '$14.99' },
   { label: '1800白金幣', value: '$29.99' },
   { label: '3000白金幣', value: '$49.99' },
+  { label: '6000白金幣', value: '$99.99' },
   { label: '6000白金幣', value: '$99.99' }
   ]
  },
